@@ -1,6 +1,6 @@
 import unittest
-from json_plaseholder.main import JSONPlaceholderClient
-from json_plaseholder.email_ver_serv import EmailVerificationService
+from json_placeholder.main import JSONPlaceholderClient
+from json_placeholder.email_ver_serv import EmailVerificationService
 
 
 class TestJSONPlaceholderClient(unittest.TestCase):

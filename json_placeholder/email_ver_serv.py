@@ -1,7 +1,7 @@
 """A service for verify email with the JSONPlaceholder API(conditionally)."""
 from typing import Dict, List, Any
 
-from json_plaseholder.main import JSONPlaceholderClient
+from json_placeholder.main import JSONPlaceholderClient
 
 
 class EmailVerificationService:
